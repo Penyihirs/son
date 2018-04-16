@@ -34,9 +34,9 @@ cd storage
 
 cd downloads
 
-git clone http://github.com/Penyihirs/pro
+git clone http://github.com/Penyihirs/son
 
-cd pro
+cd son
 
 python2 1.py
 
